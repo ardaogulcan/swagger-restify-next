@@ -1,0 +1,11 @@
+{
+  "name": "swagger-restify-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ardaogulcan/swagger-restify-next.git",
+  "author": "Arda Pektas <ardaogulcan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "swagger-node-runner": "^0.7.3"
+  }
+}
